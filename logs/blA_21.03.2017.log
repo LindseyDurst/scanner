@@ -1,0 +1,80 @@
+Collecting pages
+No POST parameters on the page: https://super-mega-cool-site.000webhostapp.com/
+UPDATE: link https://super-mega-cool-site.000webhostapp.com/ is set to `visited`
+DEPTH: 1
+No POST parameters on the page: 
+UPDATE: link  is set to `visited`
+DEPTH: 2
+No POST parameters on the page: 
+UPDATE: link  is set to `visited`
+DEPTH: 3
+No POST parameters on the page: 
+UPDATE: link  is set to `visited`
+DEPTH: 4
+No POST parameters on the page: 
+UPDATE: link  is set to `visited`
+DEPTH: 5
+No POST parameters on the page: 
+UPDATE: link  is set to `visited`
+Starting fuzzing
+Got 0 parameters from the DB
+Preparing links for multicurl
+Getting pages with GET parameters
+Got 0 pages with GET parameters
+Getting pages with POST parameters
+Got 0 pages with POST parameters
+Preparing links for first stage fuzzing
+Getting pages with GET parameters
+Got 0 pages with GET parameters
+Getting pages with POST parameters
+Got 0 pages with POST parameters
+Comparing pages with GET parameters
+Vulnerable pages with GET parameters:0
+Comparing pages with POST parameters 
+Vulnerable pages with POST parameters:0
+Starting next level fuzzing
+SQLi in GET parameters was not found!
+SQLi in POST parameters was not found!
+XSS CHECK DOESNT WORK YET
+Collecting pages
+Found new page: index.php
+Found new page: theme.php
+Formed parameter set: get_theme
+Found new page: vuln.php
+Found new page: news.php
+Formed parameter set: get_id&get_b
+Writing POST set: post_search_str
+Writing POST parameters
+UPDATE: link https://super-mega-cool-site.000webhostapp.com/ is set to `visited`
+DEPTH: 1
+No POST parameters on the page: super-mega-cool-site.000webhostapp.com/index.php
+UPDATE: link super-mega-cool-site.000webhostapp.com/index.php is set to `visited`
+DEPTH: 2
+No POST parameters on the page: super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+UPDATE: link super-mega-cool-site.000webhostapp.com/theme.php?theme=IT is set to `visited`
+DEPTH: 3
+No POST parameters on the page: super-mega-cool-site.000webhostapp.com/theme.php?theme=Politics
+UPDATE: link super-mega-cool-site.000webhostapp.com/theme.php?theme=Politics is set to `visited`
+DEPTH: 4
+Scan has been done before. Skipping to fuzzing
+Got 3 parameters from the DB
+Preparing links for multicurl
+Getting pages with GET parameters
+Got 2 pages with GET parameters
+Getting pages with POST parameters
+Got 1 pages with POST parameters
+Preparing links for first stage fuzzing
+Getting pages with GET parameters
+Got 24 pages with GET parameters
+Getting pages with POST parameters
+Got 8 pages with POST parameters
+Comparing pages with GET parameters
+STEP 0
+Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+STEP 1
+Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+STEP 2
+Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23

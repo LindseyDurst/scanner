@@ -1,0 +1,679 @@
+[2017-03-22 10:38:44.716507] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-22 10:38:44.720509] [info] Got 4 parameters from the DB
+[2017-03-22 10:38:44.721009] [info] Preparing links for multicurl
+[2017-03-22 10:38:44.721009] [info] Getting pages with GET parameters
+[2017-03-22 10:38:46.438852] [info] Got 2 pages with GET parameters
+[2017-03-22 10:38:46.438852] [info] Getting pages with POST parameters
+[2017-03-22 10:38:48.567277] [info] Got 2 pages with POST parameters
+[2017-03-22 10:38:48.567277] [info] Preparing links for first stage fuzzing
+[2017-03-22 10:38:48.567778] [info] Getting pages with GET parameters
+[2017-03-22 10:38:51.377340] [info] Got 24 pages with GET parameters
+[2017-03-22 10:38:51.377840] [info] Getting pages with POST parameters
+[2017-03-22 10:38:53.784821] [info] Got 16 pages with POST parameters
+[2017-03-22 10:38:53.785320] [info] Comparing pages with GET parameters
+[2017-03-22 10:38:53.785320] [info] STEP 0
+[2017-03-22 10:38:53.785320] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:38:53.785320] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-22 10:38:55.929250] [info] STEP 1
+[2017-03-22 10:38:55.929250] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:38:55.929250] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-22 10:38:58.072679] [info] STEP 2
+[2017-03-22 10:38:58.072679] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:38:58.073179] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-22 10:39:03.194703] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-22 10:39:03.196702] [info] Got 4 parameters from the DB
+[2017-03-22 10:39:03.196702] [info] Preparing links for multicurl
+[2017-03-22 10:39:03.196702] [info] Getting pages with GET parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0
+[2017-03-22 10:39:06.537370] [info] Got 2 pages with GET parameters
+[2017-03-22 10:39:06.537870] [info] Getting pages with POST parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1
+[2017-03-22 10:39:08.258214] [info] Got 2 pages with POST parameters
+[2017-03-22 10:39:08.258214] [info] Preparing links for first stage fuzzing
+[2017-03-22 10:39:08.258214] [info] Getting pages with GET parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2
+[2017-03-22 10:39:10.357135] [info] Got 24 pages with GET parameters
+[2017-03-22 10:39:10.357635] [info] Getting pages with POST parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3
+[2017-03-22 10:39:12.483560] [info] Got 16 pages with POST parameters
+[2017-03-22 10:39:12.483560] [info] Comparing pages with GET parameters
+[2017-03-22 10:39:12.483560] [info] STEP 0
+[2017-03-22 10:39:12.483560] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:39:12.484060] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5
+[2017-03-22 10:39:14.713505] [info] STEP 1
+[2017-03-22 10:39:14.713505] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:39:14.714005] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6
+[2017-03-22 10:39:16.901443] [info] STEP 2
+[2017-03-22 10:39:16.901443] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:39:16.901443] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49
+[2017-03-22 10:40:58.827693] [info] STEP 3
+[2017-03-22 10:40:58.827693] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:40:58.827693] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-22 10:41:01.001194] [info] STEP 4
+[2017-03-22 10:41:01.001194] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:41:01.001693] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-22 10:41:03.167694] [info] STEP 5
+[2017-03-22 10:41:03.167694] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:41:03.167694] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-22 10:41:05.331693] [info] STEP 6
+[2017-03-22 10:41:05.331693] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:41:05.331693] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-22 10:41:07.485693] [info] STEP 7
+[2017-03-22 10:41:07.485693] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 10:41:07.485693] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-22 10:42:47.607193] [info] STEP 8
+[2017-03-22 10:42:47.607693] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:42:47.607693] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-03-22 10:42:49.903693] [info] STEP 9
+[2017-03-22 10:42:49.903693] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:42:49.903693] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-03-22 10:42:52.182693] [info] STEP 10
+[2017-03-22 10:42:52.182693] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:42:52.183193] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-03-22 10:42:54.483694] [info] STEP 11
+[2017-03-22 10:42:54.483694] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:42:54.484194] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C&id=33
+[2017-03-22 10:42:56.803194] [info] STEP 12
+[2017-03-22 10:42:56.803694] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:42:56.803694] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C%27&id=33
+[2017-03-22 10:42:59.102694] [info] STEP 13
+[2017-03-22 10:42:59.102694] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:42:59.102694] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%27&id=33
+[2017-03-22 10:43:01.410193] [info] STEP 14
+[2017-03-22 10:43:01.410193] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:43:01.410193] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%22&id=33
+[2017-03-22 10:43:03.707194] [info] STEP 15
+[2017-03-22 10:43:03.707194] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 10:43:03.707694] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27--+1&id=33
+[2017-03-22 10:43:06.050693] [info] Vulnerable pages with GET parameters:2
+[2017-03-22 10:43:06.050693] [info] Comparing pages with POST parameters 16
+[2017-03-22 10:43:06.050693] [info] STEP 0
+[2017-03-22 10:43:06.050693] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:07.734694] [info] STEP 1
+[2017-03-22 10:43:07.734694] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:09.421694] [info] STEP 2
+[2017-03-22 10:43:09.421694] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:24.942693] [info] STEP 3
+[2017-03-22 10:43:24.942693] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:26.645694] [info] STEP 4
+[2017-03-22 10:43:26.645694] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:28.335694] [info] STEP 5
+[2017-03-22 10:43:28.336194] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:30.040693] [info] STEP 6
+[2017-03-22 10:43:30.040693] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:31.759694] [info] STEP 7
+[2017-03-22 10:43:31.759694] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:33.463694] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.463694] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.463694] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.463694] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.463694] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.464194] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.464194] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.464194] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 10:43:33.464194] [info] Vulnerable pages with POST parameters:1
+[2017-03-22 10:43:33.464194] [info] Starting next level fuzzing
+[2017-03-22 10:43:33.464194] [info] Fuzzing GET parameters
+[2017-03-22 10:43:33.464694] [info] Getting pages
+[2017-03-22 10:43:35.614694] [info] Analysing pages with GET parameters
+[2017-03-22 10:43:35.615194] [warning] SQLI CONFIRMED!
+[2017-03-22 10:43:35.615194] [info] SQLI CONFIRMED!
+[2017-03-22 10:43:35.615194] [info] SQLi at: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+ with parameter: id 
+ and exploit: 33' and '3'='3
+[2017-03-22 10:43:35.616194] [info] Fuzzing POST parameters
+[2017-03-22 10:43:35.616194] [info] Getting pages
+[2017-03-22 10:43:37.697694] [info] Analysing pages with POST parameters
+[2017-03-22 10:43:37.698194] [info] Init link: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 10:43:37.698194] [warning] XSS CHECK DOESNT WORK YET
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28
+[2017-03-22 14:33:06.306529] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-22 14:33:06.309529] [info] Got 4 parameters from the DB
+[2017-03-22 14:33:06.309529] [info] Preparing links for multicurl
+[2017-03-22 14:33:06.309529] [info] Getting pages with GET parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29
+[2017-03-22 14:33:08.426918] [info] Got 2 pages with GET parameters
+[2017-03-22 14:33:08.427918] [info] Getting pages with POST parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30
+[2017-03-22 14:33:10.195297] [info] Got 2 pages with POST parameters
+[2017-03-22 14:33:10.195297] [info] Preparing links for first stage fuzzing
+[2017-03-22 14:33:10.195297] [info] Getting pages with GET parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31
+[2017-03-22 14:33:12.765455] [info] Got 24 pages with GET parameters
+[2017-03-22 14:33:12.765455] [info] Getting pages with POST parameters
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32
+[2017-03-22 14:33:14.700818] [info] Got 16 pages with POST parameters
+[2017-03-22 14:33:14.700818] [info] Comparing pages with GET parameters
+[2017-03-22 14:33:14.700818] [info] STEP 0
+[2017-03-22 14:33:14.700818] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:33:14.700818] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33
+[2017-03-22 14:33:16.746378] [info] STEP 1
+[2017-03-22 14:33:16.746378] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:33:16.746378] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34
+[2017-03-22 14:33:18.789940] [info] STEP 2
+[2017-03-22 14:33:18.789940] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:33:18.789940] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 0
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 1
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 2
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 3
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 4
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 5
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 6
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 7
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 8
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 9
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 10
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 11
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 12
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 13
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 14
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 15
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 16
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 17
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 18
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 19
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 20
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 21
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 22
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 23
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 24
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 25
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 26
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 27
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 28
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 29
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 30
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 31
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 32
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 33
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 34
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 35
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 36
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 37
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 38
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 39
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 40
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 41
+[2017-03-22 14:34:56.733226] [info] STEP 3
+[2017-03-22 14:34:56.733226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:34:56.733226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 42
+[2017-03-22 14:34:58.828226] [info] STEP 4
+[2017-03-22 14:34:58.828226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:34:58.828226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 43
+[2017-03-22 14:35:00.934226] [info] STEP 5
+[2017-03-22 14:35:00.934226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:35:00.934226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 44
+[2017-03-22 14:35:03.036226] [info] STEP 6
+[2017-03-22 14:35:03.036226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:35:03.036226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 45
+[2017-03-22 14:35:05.141226] [info] STEP 7
+[2017-03-22 14:35:05.141226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-22 14:35:05.141226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 46
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 47
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 48
+[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49[2017-03-13 16:05:27.351062] [info] Getting pages with GET parameters 49
+[2017-03-22 14:36:42.491225] [info] STEP 8
+[2017-03-22 14:36:42.491225] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:42.491225] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-03-22 14:36:44.725225] [info] STEP 9
+[2017-03-22 14:36:44.725225] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:44.725225] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-03-22 14:36:46.962225] [info] STEP 10
+[2017-03-22 14:36:46.962225] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:46.962225] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-03-22 14:36:49.222225] [info] STEP 11
+[2017-03-22 14:36:49.222225] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:49.222225] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C&id=33
+[2017-03-22 14:36:51.470226] [info] STEP 12
+[2017-03-22 14:36:51.470226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:51.470226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C%27&id=33
+[2017-03-22 14:36:53.713226] [info] STEP 13
+[2017-03-22 14:36:53.713226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:53.713226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%27&id=33
+[2017-03-22 14:36:55.955225] [info] STEP 14
+[2017-03-22 14:36:55.956226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:55.956226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%22&id=33
+[2017-03-22 14:36:58.202225] [info] STEP 15
+[2017-03-22 14:36:58.203226] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-22 14:36:58.203226] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27--+1&id=33
+[2017-03-22 14:37:00.483226] [info] Vulnerable pages with GET parameters:2
+[2017-03-22 14:37:00.484225] [info] Comparing pages with POST parameters 16
+[2017-03-22 14:37:00.484225] [info] STEP 0
+[2017-03-22 14:37:00.484225] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:02.117225] [info] STEP 1
+[2017-03-22 14:37:02.117225] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:03.756226] [info] STEP 2
+[2017-03-22 14:37:03.756226] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:18.860225] [info] STEP 3
+[2017-03-22 14:37:18.860225] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:20.492225] [info] STEP 4
+[2017-03-22 14:37:20.492225] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:22.144226] [info] STEP 5
+[2017-03-22 14:37:22.144226] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:23.789226] [info] STEP 6
+[2017-03-22 14:37:23.789226] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:25.432225] [info] STEP 7
+[2017-03-22 14:37:25.433226] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:27.073225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.073225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.074225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.074225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.074225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.074225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.074225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.074225] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-22 14:37:27.074225] [info] Vulnerable pages with POST parameters:1
+[2017-03-22 14:37:27.074225] [info] Starting next level fuzzing
+[2017-03-22 14:37:27.074225] [info] Fuzzing GET parameters
+[2017-03-22 14:37:27.074225] [info] Getting pages
+[2017-03-22 14:37:29.089226] [info] Analysing pages with GET parameters
+[2017-03-22 14:37:29.089226] [warning] SQLI CONFIRMED!
+[2017-03-22 14:37:29.090225] [info] SQLI CONFIRMED!
+[2017-03-22 14:37:29.090225] [info] SQLi at: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+ with parameter: id 
+ and exploit: 33' and '3'='3
+[2017-03-22 14:37:29.090225] [info] Fuzzing POST parameters
+[2017-03-22 14:37:29.091226] [info] Getting pages
+[2017-03-22 14:37:31.065226] [info] Analysing pages with POST parameters
+[2017-03-22 14:37:31.066226] [info] Init link: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-22 14:37:31.066226] [warning] XSS CHECK DOESNT WORK YET
+[2017-04-21 13:40:47.069993] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:40:47.073992] [info] Got 4 parameters from the DB
+[2017-04-21 13:40:47.073992] [info] Preparing links for multicurl
+[2017-04-21 13:40:47.074491] [info] Getting pages with GET parameters
+[2017-04-21 13:40:51.496608] [info] Got 2 pages with GET parameters
+[2017-04-21 13:40:51.497107] [info] Getting pages with POST parameters
+[2017-04-21 13:40:52.414923] [info] Got 2 pages with POST parameters
+[2017-04-21 13:42:14.720958] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:42:14.723958] [info] Got 4 parameters from the DB
+[2017-04-21 13:42:14.724458] [info] Preparing links for multicurl
+[2017-04-21 13:42:14.724458] [info] Getting pages with GET parameters
+[2017-04-21 13:42:16.244654] [info] Got 2 pages with GET parameters
+[2017-04-21 13:42:16.244654] [info] Getting pages with POST parameters
+[2017-04-21 13:42:17.214461] [info] Got 2 pages with POST parameters
+[2017-04-21 13:43:24.129575] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:43:24.134073] [info] Got 4 parameters from the DB
+[2017-04-21 13:43:24.134073] [info] Preparing links for multicurl
+[2017-04-21 13:43:24.134073] [info] Getting pages with GET parameters
+[2017-04-21 13:43:24.936414] [info] Got 2 pages with GET parameters
+[2017-04-21 13:43:24.936414] [info] Getting pages with POST parameters
+[2017-04-21 13:43:25.784744] [info] Got 2 pages with POST parameters
+[2017-04-21 13:43:34.484004] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:43:34.488003] [info] Got 4 parameters from the DB
+[2017-04-21 13:43:34.488003] [info] Preparing links for multicurl
+[2017-04-21 13:43:34.488003] [info] Getting pages with GET parameters
+[2017-04-21 13:43:35.300839] [info] Got 2 pages with GET parameters
+[2017-04-21 13:43:35.300839] [info] Getting pages with POST parameters
+[2017-04-21 13:43:36.284143] [info] Got 2 pages with POST parameters
+[2017-04-21 13:44:49.997898] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:44:50.000396] [info] Got 4 parameters from the DB
+[2017-04-21 13:44:50.000396] [info] Preparing links for multicurl
+[2017-04-21 13:44:50.000896] [info] Getting pages with GET parameters
+[2017-04-21 13:44:50.805236] [info] Got 2 pages with GET parameters
+[2017-04-21 13:44:50.805236] [info] Getting pages with POST parameters
+[2017-04-21 13:44:51.835030] [info] Got 2 pages with POST parameters
+[2017-04-21 13:45:40.004368] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:45:40.006367] [info] Got 4 parameters from the DB
+[2017-04-21 13:45:40.006367] [info] Preparing links for multicurl
+[2017-04-21 13:45:40.006367] [info] Getting pages with GET parameters
+[2017-04-21 13:45:40.999367] [info] Got 2 pages with GET parameters
+[2017-04-21 13:45:40.999367] [info] Getting pages with POST parameters
+[2017-04-21 13:45:41.905868] [info] Got 2 pages with POST parameters
+[2017-04-21 13:48:29.880367] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:48:29.882868] [info] Got 4 parameters from the DB
+[2017-04-21 13:48:29.882868] [info] Preparing links for multicurl
+[2017-04-21 13:48:29.882868] [info] Getting pages with GET parameters
+[2017-04-21 13:48:31.130867] [info] Got 2 pages with GET parameters
+[2017-04-21 13:48:31.131367] [info] Getting pages with POST parameters
+[2017-04-21 13:48:32.028867] [info] Got 2 pages with POST parameters
+[2017-04-21 13:49:09.222368] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:49:09.226367] [info] Got 4 parameters from the DB
+[2017-04-21 13:49:09.226867] [info] Preparing links for multicurl
+[2017-04-21 13:49:09.226867] [info] Getting pages with GET parameters
+[2017-04-21 13:49:10.015367] [info] Got 2 pages with GET parameters
+[2017-04-21 13:49:10.015367] [info] Getting pages with POST parameters
+[2017-04-21 13:49:10.864367] [info] Got 2 pages with POST parameters
+[2017-04-21 13:49:39.361867] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 13:49:39.364867] [info] Got 4 parameters from the DB
+[2017-04-21 13:49:39.364867] [info] Preparing links for multicurl
+[2017-04-21 13:49:39.364867] [info] Getting pages with GET parameters
+[2017-04-21 13:49:40.090867] [info] Got 2 pages with GET parameters
+[2017-04-21 13:49:40.090867] [info] Getting pages with POST parameters
+[2017-04-21 13:49:40.930367] [info] Got 2 pages with POST parameters
+[2017-04-21 15:08:50.700340] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 15:08:50.704340] [info] Got 4 parameters from the DB
+[2017-04-21 15:08:50.704840] [info] Preparing links for multicurl
+[2017-04-21 15:08:50.704840] [info] Getting pages with GET parameters
+[2017-04-21 15:08:51.609020] [info] Got 2 pages with GET parameters
+[2017-04-21 15:08:51.609522] [info] Getting pages with POST parameters
+[2017-04-21 15:08:52.497199] [info] Got 2 pages with POST parameters
+[2017-04-21 15:08:52.618722] [info] Preparing links for first stage fuzzing
+[2017-04-21 15:08:52.618722] [info] Getting pages with GET parameters
+[2017-04-21 15:08:53.461391] [info] Got 24 pages with GET parameters
+[2017-04-21 15:08:53.461891] [info] Getting pages with POST parameters
+[2017-04-21 15:08:54.477094] [info] Got 16 pages with POST parameters
+[2017-04-21 15:08:54.477094] [info] Comparing pages with GET parameters
+[2017-04-21 15:08:54.477094] [info] STEP 0
+[2017-04-21 15:08:54.477094] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:08:54.477094] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-04-21 15:08:56.722543] [info] STEP 1
+[2017-04-21 15:08:56.722543] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:08:56.723043] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-04-21 15:08:58.976994] [info] STEP 2
+[2017-04-21 15:08:58.977494] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:08:58.977494] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-04-21 15:10:43.017798] [info] STEP 3
+[2017-04-21 15:10:43.018299] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:10:43.018299] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-04-21 15:10:45.240742] [info] STEP 4
+[2017-04-21 15:10:45.240742] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:10:45.240742] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-04-21 15:10:47.492693] [info] STEP 5
+[2017-04-21 15:10:47.492693] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:10:47.492693] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-04-21 15:10:49.723140] [info] STEP 6
+[2017-04-21 15:10:49.723140] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:10:49.723639] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-04-21 15:10:51.947083] [info] STEP 7
+[2017-04-21 15:10:51.947583] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 15:10:51.947583] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-04-21 15:12:35.628815] [info] STEP 8
+[2017-04-21 15:12:35.628815] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:35.629317] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-04-21 15:12:38.020294] [info] STEP 9
+[2017-04-21 15:12:38.020294] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:38.020795] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-04-21 15:12:40.429275] [info] STEP 10
+[2017-04-21 15:12:40.429275] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:40.429275] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-04-21 15:12:42.822254] [info] STEP 11
+[2017-04-21 15:12:42.822254] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:42.822254] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C&id=33
+[2017-04-21 15:12:45.214232] [info] STEP 12
+[2017-04-21 15:12:45.214232] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:45.214732] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C%27&id=33
+[2017-04-21 15:12:47.599709] [info] STEP 13
+[2017-04-21 15:12:47.600209] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:47.600209] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%27&id=33
+[2017-04-21 15:12:49.993689] [info] STEP 14
+[2017-04-21 15:12:49.993689] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:49.993689] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%22&id=33
+[2017-04-21 15:12:52.379666] [info] STEP 15
+[2017-04-21 15:12:52.380166] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-04-21 15:12:52.380166] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27--+1&id=33
+[2017-04-21 15:12:54.802150] [info] Vulnerable pages with GET parameters:2
+[2017-04-21 15:12:54.802150] [info] Comparing pages with POST parameters 16
+[2017-04-21 15:12:54.802150] [info] STEP 0
+[2017-04-21 15:12:54.802150] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:12:56.529495] [info] STEP 1
+[2017-04-21 15:12:56.529495] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:12:58.284847] [info] STEP 2
+[2017-04-21 15:12:58.284847] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:13:14.309551] [info] STEP 3
+[2017-04-21 15:13:14.309551] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:13:16.066401] [info] STEP 4
+[2017-04-21 15:13:16.066401] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:13:17.812752] [info] STEP 5
+[2017-04-21 15:13:17.812752] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:13:19.553600] [info] STEP 6
+[2017-04-21 15:13:19.553600] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:13:21.287945] [info] STEP 7
+[2017-04-21 15:13:21.287945] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 15:13:23.031295] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031295] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031295] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031795] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031795] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031795] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031795] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031795] [error] 404 at link: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-04-21 15:13:23.031795] [info] Vulnerable pages with POST parameters:1
+[2017-04-21 15:13:23.031795] [info] Starting next level fuzzing
+[2017-04-21 15:13:23.031795] [info] Fuzzing GET parameters
+[2017-04-21 15:13:23.032294] [info] Getting pages
+[2017-04-21 15:13:23.882464] [info] Analysing pages with GET parameters
+[2017-04-21 15:13:23.882464] [warning] SQLI CONFIRMED!
+[2017-04-21 15:13:23.882965] [info] SQLI CONFIRMED!
+[2017-04-21 15:13:23.882965] [info] SQLi at: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+ with parameter: id 
+ and exploit: 33' and '3'='3
+[2017-04-21 15:13:23.883965] [info] Fuzzing POST parameters
+[2017-04-21 15:13:23.883965] [info] Getting pages
+[2017-04-21 15:13:24.924674] [info] Analysing pages with POST parameters
+[2017-04-21 15:13:24.924674] [info] Init link: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-04-21 16:10:33.950841] [info] Scan has been done before. Skipping to fuzzing
+[2017-04-21 16:10:33.952841] [info] Got 4 parameters from the DB
+[2017-04-21 16:10:33.952841] [info] Preparing links for multicurl
+[2017-04-21 16:10:33.952841] [info] Getting pages with GET parameters
+[2017-04-21 16:10:34.872525] [info] Got 2 pages with GET parameters
+[2017-04-21 16:10:34.872525] [info] Getting pages with POST parameters
+[2017-04-21 16:10:35.838718] [info] Got 2 pages with POST parameters
+[2017-04-21 16:10:35.902231] [info] Preparing links for first stage fuzzing
+[2017-04-21 16:10:35.902731] [info] Getting pages with GET parameters
+[2017-04-21 16:10:36.762403] [info] Got 24 pages with GET parameters
+[2017-04-21 16:10:36.762403] [info] Getting pages with POST parameters
+[2017-04-21 16:10:37.784607] [info] Got 16 pages with POST parameters
+[2017-04-21 16:10:37.785108] [info] Comparing pages with GET parameters
+[2017-04-21 16:10:37.785108] [info] STEP 0
+[2017-04-21 16:10:37.785108] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 16:10:37.785108] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-04-21 16:10:40.025055] [info] STEP 1
+[2017-04-21 16:10:40.025556] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 16:10:40.025556] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-04-21 16:10:42.254002] [info] STEP 2
+[2017-04-21 16:10:42.254002] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-04-21 16:10:42.254002] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-05-01 13:11:30.112909] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:11:30.210408] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:11:30.210408] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:15:57.324409] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:15:57.324908] [info] Writing found vuln to DB
+[2017-05-01 13:16:22.016408] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:16:22.016408] [info] Writing found vuln to DB
+[2017-05-01 13:16:54.578908] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:16:54.579408] [info] Writing found vuln to DB
+[2017-05-01 13:17:45.708667] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:17:45.708667] [info] Writing found vuln to DB
+[2017-05-01 13:17:45.710666] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:17:45.710666] [info] Writing found vuln to DB
+[2017-05-01 13:17:45.712167] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:17:45.712167] [info] Writing found vuln to DB
+[2017-05-01 13:18:20.009526] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:18:20.009526] [info] Writing found vuln to DB
+[2017-05-01 13:18:20.012526] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:18:20.012526] [info] Writing found vuln to DB
+[2017-05-01 13:18:20.013525] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:18:20.013525] [info] Writing found vuln to DB
+[2017-05-01 13:18:52.964114] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:18:52.964114] [info] Writing found vuln to DB
+[2017-05-01 13:21:21.876391] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:21:21.876391] [info] Writing found vuln to DB
+[2017-05-01 13:22:54.245362] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:22:54.245362] [info] Writing found vuln to DB
+[2017-05-01 13:29:11.515300] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:29:11.515300] [info] Writing found vuln to DB
+[2017-05-01 13:29:46.206737] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:29:46.207237] [info] Writing found vuln to DB
+[2017-05-01 13:36:31.789838] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:36:31.790338] [info] Writing found vuln to DB
+[2017-05-01 13:36:31.791837] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:36:31.791837] [info] Writing found vuln to DB
+[2017-05-01 13:36:31.808841] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:36:31.809341] [info] Writing found vuln to DB
+[2017-05-01 13:38:07.473970] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:38:07.474471] [info] Writing found vuln to DB
+[2017-05-01 13:38:07.475471] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:38:07.475970] [info] Writing found vuln to DB
+[2017-05-01 13:38:07.475970] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:38:07.475970] [info] Writing found vuln to DB
+[2017-05-01 13:38:49.149303] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:38:49.149805] [info] Writing found vuln to DB
+[2017-05-01 13:39:47.942060] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:39:47.942560] [info] Writing found vuln to DB
+[2017-05-01 13:39:47.943061] [error] XSS already in database! Skipping to next page
+[2017-05-01 13:39:47.943061] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:39:47.943061] [info] Writing found vuln to DB
+[2017-05-01 13:39:47.943061] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:39:47.943561] [info] Writing found vuln to DB
+[2017-05-01 13:39:47.953562] [info] Scan has been done before. Skipping to fuzzing
+[2017-05-01 13:39:47.955063] [info] Got 4 parameters from the DB
+[2017-05-01 13:39:47.955063] [info] Preparing links for multicurl
+[2017-05-01 13:39:47.955563] [info] Getting pages with GET parameters
+[2017-05-01 13:39:49.679408] [info] Got 2 pages with GET parameters
+[2017-05-01 13:39:49.679908] [info] Getting pages with POST parameters
+[2017-05-01 13:39:51.434258] [info] Got 2 pages with POST parameters
+[2017-05-01 13:39:51.472266] [info] Preparing links for first stage fuzzing
+[2017-05-01 13:39:51.472767] [info] Getting pages with GET parameters
+[2017-05-01 13:39:53.647201] [info] Got 24 pages with GET parameters
+[2017-05-01 13:39:53.647201] [info] Getting pages with POST parameters
+[2017-05-01 13:39:55.755623] [info] Got 16 pages with POST parameters
+[2017-05-01 13:39:55.756123] [info] Comparing pages with GET parameters
+[2017-05-01 13:39:55.756123] [info] STEP 0
+[2017-05-01 13:39:55.756123] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-05-01 13:39:55.756123] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-05-01 13:39:58.077586] [info] STEP 1
+[2017-05-01 13:39:58.078087] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-05-01 13:39:58.078087] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-05-01 13:40:00.383548] [info] STEP 2
+[2017-05-01 13:40:00.383548] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-05-01 13:40:00.383548] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-05-01 13:45:31.635786] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:45:31.636286] [info] Writing found vuln to DB
+[2017-05-01 13:45:31.637285] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:45:31.637285] [info] Writing found vuln to DB
+[2017-05-01 13:45:31.637785] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:45:31.637785] [info] Writing found vuln to DB
+[2017-05-01 13:45:31.655289] [info] Scan has been done before. Skipping to fuzzing
+[2017-05-01 13:45:31.657289] [info] Got 4 parameters from the DB
+[2017-05-01 13:45:31.657289] [info] Preparing links for multicurl
+[2017-05-01 13:45:31.657289] [info] Getting pages with GET parameters
+[2017-05-01 13:45:33.321623] [info] Got 2 pages with GET parameters
+[2017-05-01 13:45:33.321623] [info] Getting pages with POST parameters
+[2017-05-01 13:45:35.057970] [info] Got 2 pages with POST parameters
+[2017-05-01 13:45:35.120982] [info] Preparing links for first stage fuzzing
+[2017-05-01 13:45:35.120982] [info] Getting pages with GET parameters
+[2017-05-01 13:45:37.137886] [info] Got 24 pages with GET parameters
+[2017-05-01 13:45:37.137886] [info] Getting pages with POST parameters
+[2017-05-01 13:46:15.177491] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:46:15.177491] [info] Writing found vuln to DB
+[2017-05-01 13:46:15.177992] [error] XSS already in database! Skipping to next page
+[2017-05-01 13:46:15.178492] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:46:15.178492] [info] Writing found vuln to DB
+[2017-05-01 13:46:15.178492] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:46:15.178492] [info] Writing found vuln to DB
+[2017-05-01 13:46:55.876630] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:46:55.877130] [info] Writing found vuln to DB
+[2017-05-01 13:46:55.878130] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:46:55.878130] [info] Writing found vuln to DB
+[2017-05-01 13:46:55.878631] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:46:55.878631] [info] Writing found vuln to DB
+[2017-05-01 13:47:30.831619] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:47:30.832119] [info] Writing found vuln to DB
+[2017-05-01 13:47:30.832619] [error] XSS already in database! Skipping to next page
+[2017-05-01 13:47:30.832619] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:47:30.832619] [info] Writing found vuln to DB
+[2017-05-01 13:47:30.832619] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:47:30.832619] [info] Writing found vuln to DB
+[2017-05-01 13:48:16.083168] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=<script>alert('b');</script>
+[2017-05-01 13:48:16.083668] [info] Writing found vuln to DB
+[2017-05-01 13:48:16.112174] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b="><script>alert('b')</script>
+[2017-05-01 13:48:16.112174] [info] Writing found vuln to DB
+[2017-05-01 13:48:16.112174] [info] XSS FOUND on https://super-mega-cool-site.000webhostapp.com/news.php?b=\'><script>alert('b')</script>
+[2017-05-01 13:48:16.112673] [info] Writing found vuln to DB

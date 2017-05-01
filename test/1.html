@@ -1,0 +1,27 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="theme.css">
+		<link rel="stylesheet" type="text/css" href="bootstrap.css">
+	</head>
+	<body>
+		<center>
+			<div id="header">
+			<div class="navbar-header">
+			  <a class="navbar-brand" href="index.php">Breaking News</a>
+			</div>
+			<div class="navbar-collapse collapse">
+				  <ul class="navbar-nav nav">
+				<li><a href="index.php" >Home</a></li>
+				<li><a href="theme.php?theme=IT">IT</a></li>
+				<li><a href="theme.php?theme=Politics">Politics</a></li>
+				<li><a href="theme.php?theme=Culture">Culture</a></li>
+			  </ul>
+			</div>
+				<form method="post" id="search_bar" action="search.php">
+					<input type="submit" value="Search"><input type="text" name="search_str" id="search">
+				</form>
+			</div></center><div id="articles"></div>		
+		</body>
+		</html>

@@ -1,0 +1,54 @@
+.auth{
+	position:relative;
+	top:100px;
+	left:40%;
+	float:center;
+	width:300px;
+}
+.container {
+  .center-block();
+}
+.center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 500px) {
+  img {
+    display: none;
+  }
+  #load_img{
+    font-size: 2px;
+  }
+}
+
+#blink1 {
+  -webkit-animation: blink1 0.99s linear infinite;
+  animation: blink1 0.9s linear infinite;
+}
+@-webkit-keyframes blink1 {
+  100% { color: rgba(34, 34, 34, 0); }
+}
+@keyframes blink1 {
+  100% { color: rgba(34, 34, 34, 0); }
+}
+#blink2 {
+  -webkit-animation: blink2 1s linear infinite;
+  animation: blink2 1s linear infinite;
+}
+@-webkit-keyframes blink2 {
+  100% { color: rgba(34, 34, 34, 0); }
+}
+@keyframes blink2 {
+  100% { color: rgba(34, 34, 34, 0); }
+}
+#blink3 {
+  -webkit-animation: blink3 1.01s linear infinite;
+  animation: blink3 1.1s linear infinite;
+}
+@-webkit-keyframes blink3 {
+  100% { color: rgba(34, 34, 34, 0); }
+}
+@keyframes blink3 {
+  100% { color: rgba(34, 34, 34, 0); }
+}

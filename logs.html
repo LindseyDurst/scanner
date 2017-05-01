@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Logs</title>
+	<script src="jquery-3.1.1.min.js"></script>
+</head>
+<body><pre>
+<div id="logs"></div>
+<?php
+// include "config.php";
+// if (session_status() == PHP_SESSION_NONE) {
+// 	session_start();
+// }
+//check_auth();
+?>
+
+<script>
+	var id;
+	//window.onload = function() {
+		//setInterval('ajax()', 1000);
+		id=location.search.slice(1).split('&').map(function(x){return x.split('=')})
+		console.log(id[0][1]);
+		ajax(0);
+	//}
+	function ajax(pos){
+		$.ajax({
+			type: "POST",
+			url: "logging.php",
+			data: { id: id[0][1], pos: pos},
+			success: function(data) {
+				//alert();
+				console.log(data);
+				var new_data=JSON.parse(data);
+				//console.log("PATH: " + new_data['path']);
+				console.log("TEXT: " + new_data['text']);
+				if(new_data['text'].length>2){
+					var parent=document.getElementById('logs');
+					var div_child = document.createElement('div');
+					div_child.innerHTML=new_data['text'];
+					parent.insertBefore(div_child,parent.firstChild);
+					//document.body.appendChild(div_child);
+				}
+				console.log(pos);
+				pos+=new_data['text'].length;
+				console.log(pos);
+				setTimeout(ajax(pos),3000);
+				//ajax(pos);
+			}
+		})
+	}
+</script>
+</pre>
+</body>
+</html>

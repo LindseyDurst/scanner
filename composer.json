@@ -1,0 +1,20 @@
+{
+    "name": "vulnscan",
+    "type": "application",
+    "authors": [
+        {
+            "name": "Govnocodmaster/hackerman",
+            "email": "skajemgovnocodunet@Govnocod.net",
+            "homepage": "https://www.scanscan.notarealdomain"
+        }
+    ],
+    "require": {
+        "katzgrau/klogger": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://www.phpmyadmin.net"
+        }
+    ]
+}

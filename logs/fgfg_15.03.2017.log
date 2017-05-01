@@ -1,0 +1,658 @@
+[2017-03-15 10:26:07.556086] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:26:07.560086] [info] Got 4 parameters from the DB
+[2017-03-15 10:26:07.561085] [info] Preparing links for multicurl
+[2017-03-15 10:26:07.561085] [info] Getting pages with GET parameters
+[2017-03-15 10:26:09.632086] [info] Got 2 pages with GET parameters
+[2017-03-15 10:26:09.633085] [info] Getting pages with POST parameters
+[2017-03-15 10:26:11.398086] [info] Got 2 pages with POST parameters
+[2017-03-15 10:26:11.398086] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:26:11.398086] [info] Getting pages with GET parameters
+[2017-03-15 10:26:13.917085] [info] Got 24 pages with GET parameters
+[2017-03-15 10:26:13.917085] [info] Getting pages with POST parameters
+[2017-03-15 10:26:16.143585] [info] Got 16 pages with POST parameters
+[2017-03-15 10:26:16.143585] [info] Comparing pages with GET parameters
+[2017-03-15 10:26:16.143585] [info] STEP 0
+[2017-03-15 10:26:16.143585] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:26:16.144085] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:26:18.351085] [info] STEP 1
+[2017-03-15 10:26:18.351085] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:26:18.351085] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:26:20.555085] [info] STEP 2
+[2017-03-15 10:26:20.555085] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:26:20.555085] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-15 10:27:11.145086] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:27:11.148086] [info] Got 4 parameters from the DB
+[2017-03-15 10:27:11.148086] [info] Preparing links for multicurl
+[2017-03-15 10:27:11.149085] [info] Getting pages with GET parameters
+[2017-03-15 10:27:12.924086] [info] Got 2 pages with GET parameters
+[2017-03-15 10:27:12.924086] [info] Getting pages with POST parameters
+[2017-03-15 10:27:14.740086] [info] Got 2 pages with POST parameters
+[2017-03-15 10:27:14.740086] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:27:14.740086] [info] Getting pages with GET parameters
+[2017-03-15 10:27:16.915086] [info] Got 24 pages with GET parameters
+[2017-03-15 10:27:16.915086] [info] Getting pages with POST parameters
+[2017-03-15 10:27:19.038085] [info] Got 16 pages with POST parameters
+[2017-03-15 10:27:19.038085] [info] Comparing pages with GET parameters
+[2017-03-15 10:27:19.038085] [info] STEP 0
+[2017-03-15 10:27:19.038085] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:27:19.038085] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:27:21.195086] [info] STEP 1
+[2017-03-15 10:27:21.195086] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:27:21.195086] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:27:23.354085] [info] STEP 2
+[2017-03-15 10:27:23.354085] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:27:23.354085] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-15 10:28:39.557085] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:28:39.561085] [info] Got 4 parameters from the DB
+[2017-03-15 10:28:39.561085] [info] Preparing links for multicurl
+[2017-03-15 10:28:39.562086] [info] Getting pages with GET parameters
+[2017-03-15 10:28:41.345086] [info] Got 2 pages with GET parameters
+[2017-03-15 10:28:41.346086] [info] Getting pages with POST parameters
+[2017-03-15 10:28:43.202085] [info] Got 2 pages with POST parameters
+[2017-03-15 10:28:43.202085] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:28:43.202085] [info] Getting pages with GET parameters
+[2017-03-15 10:28:45.337085] [info] Got 24 pages with GET parameters
+[2017-03-15 10:28:45.337585] [info] Getting pages with POST parameters
+[2017-03-15 10:28:47.604085] [info] Got 16 pages with POST parameters
+[2017-03-15 10:28:47.604085] [info] Comparing pages with GET parameters
+[2017-03-15 10:28:47.604085] [info] STEP 0
+[2017-03-15 10:28:47.604085] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:28:47.604085] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:28:49.780086] [info] STEP 1
+[2017-03-15 10:28:49.780086] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:28:49.780086] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:28:51.956085] [info] STEP 2
+[2017-03-15 10:28:51.956085] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:28:51.956085] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-15 10:30:33.147476] [info] STEP 3
+[2017-03-15 10:30:33.147476] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:30:33.147476] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-15 10:30:35.331695] [info] STEP 4
+[2017-03-15 10:30:35.332695] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:30:35.332695] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-15 10:30:37.508913] [info] STEP 5
+[2017-03-15 10:30:37.508913] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:30:37.509912] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-15 10:30:39.695132] [info] STEP 6
+[2017-03-15 10:30:39.695132] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:30:39.695132] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-15 10:30:41.879349] [info] STEP 7
+[2017-03-15 10:30:41.879349] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:30:41.879349] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-15 10:32:22.920454] [info] STEP 8
+[2017-03-15 10:32:22.920454] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-15 10:32:22.920454] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-03-15 10:32:25.254688] [info] STEP 9
+[2017-03-15 10:32:25.254688] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-15 10:32:25.254688] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-03-15 10:32:27.653928] [info] STEP 10
+[2017-03-15 10:32:27.653928] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-15 10:32:27.653928] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-03-15 10:32:54.846652] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:32:54.850652] [info] Got 4 parameters from the DB
+[2017-03-15 10:32:54.850652] [info] Preparing links for multicurl
+[2017-03-15 10:32:54.850652] [info] Getting pages with GET parameters
+[2017-03-15 10:32:56.847853] [info] Got 2 pages with GET parameters
+[2017-03-15 10:32:56.847853] [info] Getting pages with POST parameters
+[2017-03-15 10:32:58.659034] [info] Got 2 pages with POST parameters
+[2017-03-15 10:32:58.659034] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:32:58.660034] [info] Getting pages with GET parameters
+[2017-03-15 10:33:00.829279] [info] Got 24 pages with GET parameters
+[2017-03-15 10:33:00.829279] [info] Getting pages with POST parameters
+[2017-03-15 10:33:06.244327] [info] Got 16 pages with POST parameters
+[2017-03-15 10:33:06.244327] [info] Comparing pages with GET parameters
+[2017-03-15 10:33:06.244327] [info] STEP 0
+[2017-03-15 10:33:06.244327] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:33:06.244327] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:33:08.411043] [info] STEP 1
+[2017-03-15 10:33:08.412044] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:33:08.412044] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:33:10.570260] [info] STEP 2
+[2017-03-15 10:33:10.570260] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:33:10.570260] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-15 10:35:58.917104] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:35:58.920104] [info] Got 4 parameters from the DB
+[2017-03-15 10:35:58.920104] [info] Preparing links for multicurl
+[2017-03-15 10:35:58.920104] [info] Getting pages with GET parameters
+[2017-03-15 10:36:00.662280] [info] Got 2 pages with GET parameters
+[2017-03-15 10:36:00.663280] [info] Getting pages with POST parameters
+[2017-03-15 10:36:05.862801] [info] Got 2 pages with POST parameters
+[2017-03-15 10:36:05.862801] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:36:05.862801] [info] Getting pages with GET parameters
+[2017-03-15 10:36:07.883018] [info] Got 24 pages with GET parameters
+[2017-03-15 10:36:07.883018] [info] Getting pages with POST parameters
+[2017-03-15 10:36:09.968231] [info] Got 16 pages with POST parameters
+[2017-03-15 10:36:09.968231] [info] Comparing pages with GET parameters
+[2017-03-15 10:36:09.968231] [info] STEP 0
+[2017-03-15 10:36:09.968231] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:36:09.968231] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:36:12.141449] [info] STEP 1
+[2017-03-15 10:36:12.141449] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:36:12.141449] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:36:14.304666] [info] STEP 2
+[2017-03-15 10:36:14.304666] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:36:14.304666] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-15 10:38:51.511409] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:38:51.515408] [info] Got 4 parameters from the DB
+[2017-03-15 10:38:51.515408] [info] Preparing links for multicurl
+[2017-03-15 10:38:51.515408] [info] Getting pages with GET parameters
+[2017-03-15 10:38:53.408597] [info] Got 2 pages with GET parameters
+[2017-03-15 10:38:53.408597] [info] Getting pages with POST parameters
+[2017-03-15 10:38:55.111768] [info] Got 2 pages with POST parameters
+[2017-03-15 10:38:55.112768] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:38:55.112768] [info] Getting pages with GET parameters
+[2017-03-15 10:38:57.268023] [info] Got 24 pages with GET parameters
+[2017-03-15 10:38:57.268023] [info] Getting pages with POST parameters
+[2017-03-15 10:38:59.359239] [info] Got 16 pages with POST parameters
+[2017-03-15 10:38:59.359239] [info] Comparing pages with GET parameters
+[2017-03-15 10:38:59.359239] [info] STEP 0
+[2017-03-15 10:38:59.359239] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:38:59.359239] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:39:01.615463] [info] STEP 1
+[2017-03-15 10:39:01.615463] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:39:01.615463] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:39:05.408844] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:39:05.410845] [info] Got 4 parameters from the DB
+[2017-03-15 10:39:05.410845] [info] Preparing links for multicurl
+[2017-03-15 10:39:05.410845] [info] Getting pages with GET parameters
+[2017-03-15 10:39:07.072010] [info] Got 2 pages with GET parameters
+[2017-03-15 10:39:07.072010] [info] Getting pages with POST parameters
+[2017-03-15 10:39:08.872190] [info] Got 2 pages with POST parameters
+[2017-03-15 10:39:08.872190] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:39:08.872190] [info] Getting pages with GET parameters
+[2017-03-15 10:40:44.626786] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:40:44.630788] [info] Got 4 parameters from the DB
+[2017-03-15 10:40:44.630788] [info] Preparing links for multicurl
+[2017-03-15 10:40:44.630788] [info] Getting pages with GET parameters
+[2017-03-15 10:40:46.338960] [info] Got 2 pages with GET parameters
+[2017-03-15 10:40:46.338960] [info] Getting pages with POST parameters
+[2017-03-15 10:40:48.163142] [info] Got 2 pages with POST parameters
+[2017-03-15 10:40:48.163142] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:40:48.163142] [info] Getting pages with GET parameters
+[2017-03-15 10:40:50.250375] [info] Got 24 pages with GET parameters
+[2017-03-15 10:40:50.250375] [info] Getting pages with POST parameters
+[2017-03-15 10:40:52.360593] [info] Got 16 pages with POST parameters
+[2017-03-15 10:40:52.361593] [info] Comparing pages with GET parameters
+[2017-03-15 10:40:52.361593] [info] STEP 0
+[2017-03-15 10:40:52.361593] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:40:52.361593] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:40:54.524808] [info] STEP 1
+[2017-03-15 10:40:54.524808] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:40:54.524808] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:40:56.691025] [info] STEP 2
+[2017-03-15 10:40:56.691025] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:40:56.691025] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-15 10:42:37.193078] [info] STEP 3
+[2017-03-15 10:42:37.193078] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:42:37.193078] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-15 10:42:39.329291] [info] STEP 4
+[2017-03-15 10:42:39.329291] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:42:39.329291] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-15 10:42:41.461504] [info] STEP 5
+[2017-03-15 10:42:41.461504] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:42:41.461504] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-15 10:42:43.604718] [info] STEP 6
+[2017-03-15 10:42:43.604718] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:42:43.604718] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-15 10:42:45.754934] [info] STEP 7
+[2017-03-15 10:42:45.754934] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:42:45.754934] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-15 10:42:53.534715] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 10:42:53.538716] [info] Got 4 parameters from the DB
+[2017-03-15 10:42:53.538716] [info] Preparing links for multicurl
+[2017-03-15 10:42:53.538716] [info] Getting pages with GET parameters
+[2017-03-15 10:42:56.304992] [info] Got 2 pages with GET parameters
+[2017-03-15 10:42:56.304992] [info] Getting pages with POST parameters
+[2017-03-15 10:42:58.028666] [info] Got 2 pages with POST parameters
+[2017-03-15 10:42:58.029165] [info] Preparing links for first stage fuzzing
+[2017-03-15 10:42:58.029165] [info] Getting pages with GET parameters
+[2017-03-15 10:43:00.071892] [info] Got 24 pages with GET parameters
+[2017-03-15 10:43:00.071892] [info] Getting pages with POST parameters
+[2017-03-15 10:43:06.381026] [info] Got 16 pages with POST parameters
+[2017-03-15 10:43:06.381026] [info] Comparing pages with GET parameters
+[2017-03-15 10:43:06.381026] [info] STEP 0
+[2017-03-15 10:43:06.381026] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:43:06.381026] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 10:43:08.579246] [info] STEP 1
+[2017-03-15 10:43:08.579246] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:43:08.579246] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 10:43:10.771466] [info] STEP 2
+[2017-03-15 10:43:10.772465] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:43:10.772465] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-15 10:44:53.219710] [info] STEP 3
+[2017-03-15 10:44:53.219710] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:44:53.220710] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-15 10:44:55.414928] [info] STEP 4
+[2017-03-15 10:44:55.415929] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:44:55.415929] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-15 10:44:57.608148] [info] STEP 5
+[2017-03-15 10:44:57.608148] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:44:57.608148] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-15 10:44:59.795367] [info] STEP 6
+[2017-03-15 10:44:59.795367] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:44:59.795367] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-15 10:45:01.992587] [info] STEP 7
+[2017-03-15 10:45:01.992587] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 10:45:01.992587] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-15 12:27:41.024730] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-15 12:27:41.028731] [info] Got 4 parameters from the DB
+[2017-03-15 12:27:41.028731] [info] Preparing links for multicurl
+[2017-03-15 12:27:41.028731] [info] Getting pages with GET parameters
+[2017-03-15 12:27:43.082936] [info] Got 2 pages with GET parameters
+[2017-03-15 12:27:43.082936] [info] Getting pages with POST parameters
+[2017-03-15 12:27:44.822109] [info] Got 2 pages with POST parameters
+[2017-03-15 12:27:44.823110] [info] Preparing links for first stage fuzzing
+[2017-03-15 12:27:44.823110] [info] Getting pages with GET parameters
+[2017-03-15 12:27:46.885329] [info] Got 24 pages with GET parameters
+[2017-03-15 12:27:46.885329] [info] Getting pages with POST parameters
+[2017-03-15 12:27:49.008544] [info] Got 16 pages with POST parameters
+[2017-03-15 12:27:49.008544] [info] Comparing pages with GET parameters
+[2017-03-15 12:27:49.008544] [info] STEP 0
+[2017-03-15 12:27:49.008544] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 12:27:49.008544] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-15 12:27:51.509794] [info] STEP 1
+[2017-03-15 12:27:51.509794] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 12:27:51.509794] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-15 12:27:54.051048] [info] STEP 2
+[2017-03-15 12:27:54.051048] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-15 12:27:54.051048] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-21 13:53:39.907818] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-21 13:53:39.986834] [info] Got 4 parameters from the DB
+[2017-03-21 13:53:39.987334] [info] Preparing links for multicurl
+[2017-03-21 13:53:39.987334] [info] Getting pages with GET parameters
+[2017-03-21 13:53:42.391814] [info] Got 2 pages with GET parameters
+[2017-03-21 13:53:42.392314] [info] Getting pages with POST parameters
+[2017-03-21 13:53:44.643764] [info] Got 2 pages with POST parameters
+[2017-03-21 13:53:44.644264] [info] Preparing links for first stage fuzzing
+[2017-03-21 13:53:44.644264] [info] Getting pages with GET parameters
+[2017-03-21 13:53:46.898216] [info] Got 24 pages with GET parameters
+[2017-03-21 13:53:46.898216] [info] Getting pages with POST parameters
+[2017-03-21 13:53:49.151667] [info] Got 16 pages with POST parameters
+[2017-03-21 13:53:49.151667] [info] Comparing pages with GET parameters
+[2017-03-21 13:53:49.151667] [info] STEP 0
+[2017-03-21 13:53:49.151667] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.151667] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-21 13:53:49.152167] [info] STEP 1
+[2017-03-21 13:53:49.152167] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.152167] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-21 13:53:49.152167] [info] STEP 2
+[2017-03-21 13:53:49.152167] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.152167] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-21 13:53:49.152167] [info] STEP 3
+[2017-03-21 13:53:49.152167] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.152167] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-21 13:53:49.152167] [info] STEP 4
+[2017-03-21 13:53:49.152667] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.152667] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-21 13:53:49.152667] [info] STEP 5
+[2017-03-21 13:53:49.152667] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.152667] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-21 13:53:49.152667] [info] STEP 6
+[2017-03-21 13:53:49.152667] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.152667] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-21 13:53:49.152667] [info] STEP 7
+[2017-03-21 13:53:49.152667] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:53:49.153167] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-21 13:53:49.153167] [info] STEP 8
+[2017-03-21 13:53:49.153167] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.153167] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-03-21 13:53:49.153167] [info] STEP 9
+[2017-03-21 13:53:49.153167] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.153167] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-03-21 13:53:49.153666] [info] STEP 10
+[2017-03-21 13:53:49.153666] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.153666] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-03-21 13:53:49.153666] [info] STEP 11
+[2017-03-21 13:53:49.153666] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.153666] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C&id=33
+[2017-03-21 13:53:49.153666] [info] STEP 12
+[2017-03-21 13:53:49.153666] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.153666] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C%27&id=33
+[2017-03-21 13:53:49.153666] [info] STEP 13
+[2017-03-21 13:53:49.154166] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.154166] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%27&id=33
+[2017-03-21 13:53:49.154166] [info] STEP 14
+[2017-03-21 13:53:49.154166] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.154166] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%22&id=33
+[2017-03-21 13:53:49.154166] [info] STEP 15
+[2017-03-21 13:53:49.154166] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:53:49.154166] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27--+1&id=33
+[2017-03-21 13:53:49.154666] [info] Vulnerable pages with GET parameters:0
+[2017-03-21 13:53:49.154666] [info] Comparing pages with POST parameters 16
+[2017-03-21 13:53:49.154666] [info] STEP 0
+[2017-03-21 13:53:49.154666] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.154666] [info] STEP 1
+[2017-03-21 13:53:49.154666] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.154666] [info] STEP 2
+[2017-03-21 13:53:49.154666] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.154666] [info] STEP 3
+[2017-03-21 13:53:49.155167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.155167] [info] STEP 4
+[2017-03-21 13:53:49.155167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.155167] [info] STEP 5
+[2017-03-21 13:53:49.155167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.155167] [info] STEP 6
+[2017-03-21 13:53:49.155167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.155167] [info] STEP 7
+[2017-03-21 13:53:49.155167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:53:49.155167] [info] STEP 8
+[2017-03-21 13:53:49.155167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.155667] [info] STEP 9
+[2017-03-21 13:53:49.155667] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.155667] [info] STEP 10
+[2017-03-21 13:53:49.155667] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.155667] [info] STEP 11
+[2017-03-21 13:53:49.155667] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.155667] [info] STEP 12
+[2017-03-21 13:53:49.155667] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.156167] [info] STEP 13
+[2017-03-21 13:53:49.156167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.156167] [info] STEP 14
+[2017-03-21 13:53:49.156167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.156167] [info] STEP 15
+[2017-03-21 13:53:49.156167] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:53:49.156167] [info] Vulnerable pages with POST parameters:0
+[2017-03-21 13:53:49.156167] [info] Starting next level fuzzing
+[2017-03-21 13:53:49.156667] [warning] SQLi in GET parameters was not found!
+[2017-03-21 13:53:49.156667] [warning] SQLi in POST parameters was not found!
+[2017-03-21 13:53:49.156667] [warning] XSS CHECK DOESNT WORK YET
+[2017-03-21 13:54:30.543442] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-21 13:54:30.545943] [info] Got 4 parameters from the DB
+[2017-03-21 13:54:30.545943] [info] Preparing links for multicurl
+[2017-03-21 13:54:30.546443] [info] Getting pages with GET parameters
+[2017-03-21 13:54:31.736181] [info] Got 2 pages with GET parameters
+[2017-03-21 13:54:31.736181] [info] Getting pages with POST parameters
+[2017-03-21 13:54:32.947923] [info] Got 2 pages with POST parameters
+[2017-03-21 13:54:32.947923] [info] Preparing links for first stage fuzzing
+[2017-03-21 13:54:32.947923] [info] Getting pages with GET parameters
+[2017-03-21 13:54:34.173168] [info] Got 24 pages with GET parameters
+[2017-03-21 13:54:34.173669] [info] Getting pages with POST parameters
+[2017-03-21 13:54:35.390913] [info] Got 16 pages with POST parameters
+[2017-03-21 13:54:35.391412] [info] Comparing pages with GET parameters
+[2017-03-21 13:54:35.391412] [info] STEP 0
+[2017-03-21 13:54:35.391412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.391412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-21 13:54:35.391412] [info] STEP 1
+[2017-03-21 13:54:35.391412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.391412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-21 13:54:35.391412] [info] STEP 2
+[2017-03-21 13:54:35.391412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.391412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-21 13:54:35.391912] [info] STEP 3
+[2017-03-21 13:54:35.391912] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.391912] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-21 13:54:35.391912] [info] STEP 4
+[2017-03-21 13:54:35.391912] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.391912] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-21 13:54:35.391912] [info] STEP 5
+[2017-03-21 13:54:35.391912] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.391912] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-21 13:54:35.392412] [info] STEP 6
+[2017-03-21 13:54:35.392412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.392412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-21 13:54:35.392412] [info] STEP 7
+[2017-03-21 13:54:35.392412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:35.392412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-21 13:54:35.392412] [info] STEP 8
+[2017-03-21 13:54:35.392412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.392412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-03-21 13:54:35.392412] [info] STEP 9
+[2017-03-21 13:54:35.392913] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.392913] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-03-21 13:54:35.392913] [info] STEP 10
+[2017-03-21 13:54:35.392913] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.392913] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-03-21 13:54:35.392913] [info] STEP 11
+[2017-03-21 13:54:35.392913] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.392913] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C&id=33
+[2017-03-21 13:54:35.392913] [info] STEP 12
+[2017-03-21 13:54:35.394412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.394412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C%27&id=33
+[2017-03-21 13:54:35.394412] [info] STEP 13
+[2017-03-21 13:54:35.394412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.394412] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%27&id=33
+[2017-03-21 13:54:35.394412] [info] STEP 14
+[2017-03-21 13:54:35.394412] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.394912] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%22&id=33
+[2017-03-21 13:54:35.394912] [info] STEP 15
+[2017-03-21 13:54:35.394912] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:35.394912] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27--+1&id=33
+[2017-03-21 13:54:35.394912] [info] Vulnerable pages with GET parameters:0
+[2017-03-21 13:54:35.394912] [info] Comparing pages with POST parameters 16
+[2017-03-21 13:54:35.394912] [info] STEP 0
+[2017-03-21 13:54:35.394912] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.394912] [info] STEP 1
+[2017-03-21 13:54:35.395412] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.395412] [info] STEP 2
+[2017-03-21 13:54:35.395412] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.395412] [info] STEP 3
+[2017-03-21 13:54:35.395412] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.395412] [info] STEP 4
+[2017-03-21 13:54:35.395412] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.395412] [info] STEP 5
+[2017-03-21 13:54:35.395412] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.395412] [info] STEP 6
+[2017-03-21 13:54:35.395412] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.395914] [info] STEP 7
+[2017-03-21 13:54:35.395914] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:35.395914] [info] STEP 8
+[2017-03-21 13:54:35.395914] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.395914] [info] STEP 9
+[2017-03-21 13:54:35.395914] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.395914] [info] STEP 10
+[2017-03-21 13:54:35.395914] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.395914] [info] STEP 11
+[2017-03-21 13:54:35.395914] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.396414] [info] STEP 12
+[2017-03-21 13:54:35.396414] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.396414] [info] STEP 13
+[2017-03-21 13:54:35.397913] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.397913] [info] STEP 14
+[2017-03-21 13:54:35.397913] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.398413] [info] STEP 15
+[2017-03-21 13:54:35.398914] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:35.398914] [info] Vulnerable pages with POST parameters:0
+[2017-03-21 13:54:35.398914] [info] Starting next level fuzzing
+[2017-03-21 13:54:35.398914] [warning] SQLi in GET parameters was not found!
+[2017-03-21 13:54:35.398914] [warning] SQLi in POST parameters was not found!
+[2017-03-21 13:54:35.399414] [warning] XSS CHECK DOESNT WORK YET
+[2017-03-21 13:54:39.394212] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-21 13:54:39.396213] [info] Got 4 parameters from the DB
+[2017-03-21 13:54:39.396213] [info] Preparing links for multicurl
+[2017-03-21 13:54:39.396213] [info] Getting pages with GET parameters
+[2017-03-21 13:54:40.597954] [info] Got 2 pages with GET parameters
+[2017-03-21 13:54:40.597954] [info] Getting pages with POST parameters
+[2017-03-21 13:54:41.798193] [info] Got 2 pages with POST parameters
+[2017-03-21 13:54:41.798193] [info] Preparing links for first stage fuzzing
+[2017-03-21 13:54:41.798193] [info] Getting pages with GET parameters
+[2017-03-21 13:54:43.019937] [info] Got 24 pages with GET parameters
+[2017-03-21 13:54:43.019937] [info] Getting pages with POST parameters
+[2017-03-21 13:54:44.221678] [info] Got 16 pages with POST parameters
+[2017-03-21 13:54:44.222177] [info] Comparing pages with GET parameters
+[2017-03-21 13:54:44.222177] [info] STEP 0
+[2017-03-21 13:54:44.222177] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.222177] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-21 13:54:44.222177] [info] STEP 1
+[2017-03-21 13:54:44.222177] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.222177] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-21 13:54:44.222678] [info] STEP 2
+[2017-03-21 13:54:44.222678] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.222678] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-21 13:54:44.222678] [info] STEP 3
+[2017-03-21 13:54:44.222678] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.222678] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-21 13:54:44.222678] [info] STEP 4
+[2017-03-21 13:54:44.222678] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.222678] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-21 13:54:44.223179] [info] STEP 5
+[2017-03-21 13:54:44.223179] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.223179] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-21 13:54:44.223179] [info] STEP 6
+[2017-03-21 13:54:44.223179] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.223179] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-21 13:54:44.223179] [info] STEP 7
+[2017-03-21 13:54:44.223179] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:54:44.223179] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-21 13:54:44.223179] [info] STEP 8
+[2017-03-21 13:54:44.223679] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.223679] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-03-21 13:54:44.223679] [info] STEP 9
+[2017-03-21 13:54:44.223679] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.223679] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-03-21 13:54:44.223679] [info] STEP 10
+[2017-03-21 13:54:44.223679] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.223679] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-03-21 13:54:44.223679] [info] STEP 11
+[2017-03-21 13:54:44.223679] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.223679] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C&id=33
+[2017-03-21 13:54:44.224179] [info] STEP 12
+[2017-03-21 13:54:44.224179] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.224179] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C%27&id=33
+[2017-03-21 13:54:44.224179] [info] STEP 13
+[2017-03-21 13:54:44.224179] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.224179] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%27&id=33
+[2017-03-21 13:54:44.224179] [info] STEP 14
+[2017-03-21 13:54:44.224179] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.224179] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%22&id=33
+[2017-03-21 13:54:44.224678] [info] STEP 15
+[2017-03-21 13:54:44.224678] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:54:44.224678] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27--+1&id=33
+[2017-03-21 13:54:44.224678] [info] Vulnerable pages with GET parameters:0
+[2017-03-21 13:54:44.224678] [info] Comparing pages with POST parameters 16
+[2017-03-21 13:54:44.224678] [info] STEP 0
+[2017-03-21 13:54:44.225178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225178] [info] STEP 1
+[2017-03-21 13:54:44.225178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225178] [info] STEP 2
+[2017-03-21 13:54:44.225178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225178] [info] STEP 3
+[2017-03-21 13:54:44.225178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225178] [info] STEP 4
+[2017-03-21 13:54:44.225178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225178] [info] STEP 5
+[2017-03-21 13:54:44.225678] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225678] [info] STEP 6
+[2017-03-21 13:54:44.225678] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225678] [info] STEP 7
+[2017-03-21 13:54:44.225678] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:54:44.225678] [info] STEP 8
+[2017-03-21 13:54:44.225678] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.225678] [info] STEP 9
+[2017-03-21 13:54:44.225678] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.225678] [info] STEP 10
+[2017-03-21 13:54:44.225678] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.226178] [info] STEP 11
+[2017-03-21 13:54:44.226178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.226178] [info] STEP 12
+[2017-03-21 13:54:44.226178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.226178] [info] STEP 13
+[2017-03-21 13:54:44.226178] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.226178] [info] STEP 14
+[2017-03-21 13:54:44.226679] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.226679] [info] STEP 15
+[2017-03-21 13:54:44.226679] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:54:44.226679] [info] Vulnerable pages with POST parameters:0
+[2017-03-21 13:54:44.226679] [info] Starting next level fuzzing
+[2017-03-21 13:54:44.226679] [warning] SQLi in GET parameters was not found!
+[2017-03-21 13:54:44.226679] [warning] SQLi in POST parameters was not found!
+[2017-03-21 13:54:44.226679] [warning] XSS CHECK DOESNT WORK YET
+[2017-03-21 13:56:07.798890] [info] Scan has been done before. Skipping to fuzzing
+[2017-03-21 13:56:07.801390] [info] Got 4 parameters from the DB
+[2017-03-21 13:56:07.801891] [info] Preparing links for multicurl
+[2017-03-21 13:56:07.801891] [info] Getting pages with GET parameters
+[2017-03-21 13:56:08.993628] [info] Got 2 pages with GET parameters
+[2017-03-21 13:56:08.993628] [info] Getting pages with POST parameters
+[2017-03-21 13:56:10.201370] [info] Got 2 pages with POST parameters
+[2017-03-21 13:56:10.201370] [info] Preparing links for first stage fuzzing
+[2017-03-21 13:56:10.201870] [info] Getting pages with GET parameters
+[2017-03-21 13:56:11.488127] [info] Got 24 pages with GET parameters
+[2017-03-21 13:56:11.488627] [info] Getting pages with POST parameters
+[2017-03-21 13:56:12.786387] [info] Got 16 pages with POST parameters
+[2017-03-21 13:56:12.786887] [info] Comparing pages with GET parameters
+[2017-03-21 13:56:12.786887] [info] STEP 0
+[2017-03-21 13:56:12.786887] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.786887] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27
+[2017-03-21 13:56:12.786887] [info] STEP 1
+[2017-03-21 13:56:12.786887] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.786887] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%22
+[2017-03-21 13:56:12.786887] [info] STEP 2
+[2017-03-21 13:56:12.787388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.787388] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27%23
+[2017-03-21 13:56:12.787388] [info] STEP 3
+[2017-03-21 13:56:12.787388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.787388] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C
+[2017-03-21 13:56:12.787388] [info] STEP 4
+[2017-03-21 13:56:12.787388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.787388] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%5C%27
+[2017-03-21 13:56:12.787388] [info] STEP 5
+[2017-03-21 13:56:12.787388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.787888] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%27
+[2017-03-21 13:56:12.787888] [info] STEP 6
+[2017-03-21 13:56:12.787888] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.787888] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%25%22
+[2017-03-21 13:56:12.787888] [info] STEP 7
+[2017-03-21 13:56:12.787888] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT
+[2017-03-21 13:56:12.787888] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/theme.php?theme=IT%27--+1
+[2017-03-21 13:56:12.787888] [info] STEP 8
+[2017-03-21 13:56:12.787888] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.787888] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27&id=33
+[2017-03-21 13:56:12.787888] [info] STEP 9
+[2017-03-21 13:56:12.788388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.788388] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%22&id=33
+[2017-03-21 13:56:12.788388] [info] STEP 10
+[2017-03-21 13:56:12.788388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.788388] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27%23&id=33
+[2017-03-21 13:56:12.788388] [info] STEP 11
+[2017-03-21 13:56:12.788388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.788388] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C&id=33
+[2017-03-21 13:56:12.788388] [info] STEP 12
+[2017-03-21 13:56:12.788388] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.788388] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%5C%27&id=33
+[2017-03-21 13:56:12.788388] [info] STEP 13
+[2017-03-21 13:56:12.788887] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.788887] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%27&id=33
+[2017-03-21 13:56:12.788887] [info] STEP 14
+[2017-03-21 13:56:12.788887] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.788887] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%25%22&id=33
+[2017-03-21 13:56:12.788887] [info] STEP 15
+[2017-03-21 13:56:12.788887] [info] Initial link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin&id=33
+[2017-03-21 13:56:12.788887] [info] Fuzzing link: http://super-mega-cool-site.000webhostapp.com/news.php?b=admin%27--+1&id=33
+[2017-03-21 13:56:12.788887] [info] Vulnerable pages with GET parameters:0
+[2017-03-21 13:56:12.788887] [info] Comparing pages with POST parameters 16
+[2017-03-21 13:56:12.789387] [info] STEP 0
+[2017-03-21 13:56:12.789387] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789387] [info] STEP 1
+[2017-03-21 13:56:12.789387] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789387] [info] STEP 2
+[2017-03-21 13:56:12.789387] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789387] [info] STEP 3
+[2017-03-21 13:56:12.789387] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789387] [info] STEP 4
+[2017-03-21 13:56:12.789387] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789387] [info] STEP 5
+[2017-03-21 13:56:12.789887] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789887] [info] STEP 6
+[2017-03-21 13:56:12.789887] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789887] [info] STEP 7
+[2017-03-21 13:56:12.789887] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/search.php
+[2017-03-21 13:56:12.789887] [info] STEP 8
+[2017-03-21 13:56:12.789887] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.789887] [info] STEP 9
+[2017-03-21 13:56:12.789887] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.789887] [info] STEP 10
+[2017-03-21 13:56:12.789887] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.789887] [info] STEP 11
+[2017-03-21 13:56:12.790389] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.790389] [info] STEP 12
+[2017-03-21 13:56:12.790389] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.790389] [info] STEP 13
+[2017-03-21 13:56:12.790389] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.790389] [info] STEP 14
+[2017-03-21 13:56:12.790389] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.790389] [info] STEP 15
+[2017-03-21 13:56:12.790389] [info] Page with POST parameters: http://super-mega-cool-site.000webhostapp.com/super-mega-cool-site.000webhostapp.com/vuln.php
+[2017-03-21 13:56:12.790389] [info] Vulnerable pages with POST parameters:0
+[2017-03-21 13:56:12.790389] [info] Starting next level fuzzing
+[2017-03-21 13:56:12.790889] [warning] SQLi in GET parameters was not found!
+[2017-03-21 13:56:12.790889] [warning] SQLi in POST parameters was not found!
+[2017-03-21 13:56:12.790889] [warning] XSS CHECK DOESNT WORK YET
