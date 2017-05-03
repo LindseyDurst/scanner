@@ -1,6 +1,8 @@
 Как завести зверюшку:
 1) скачиваем composer: https://getcomposer.org/
 и устанавливаем (инструкция тут: http://webnotes.by/docs/raznoe/ustanovka-i-nastroyka-composer-pod-winows-i-xampp)
+1.1) открываем консоль винды и 
+composer require katzgrau/klogger:dev-master
 2) скачиваем архивчик приложалки и распаковываем в xampp htdocs
 3) загружаем базу данных в пхпмайадмин
 4) меняем в файле config.php логин пароль для базы
