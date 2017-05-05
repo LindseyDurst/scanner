@@ -40,13 +40,13 @@ if(isset($_POST['aim'])&& isset($_POST['dep']) && isset($_POST['proj']) && isset
 	# Display results
 	$res=$data->get_vulns();
 	if(is_array($res)){
-		echo "<h3>Vulnerabilities found</h3><br><table id=\"return\" class=\"table\"><tr><td>Type</td><td>Link</td><td>Parameter</td><td>Exploit</td></tr>";
+		echo "<b><h3>Vulnerabilities found</h3><br><table id=\"return\" class=\"table\"><tr><td>Type</td><td>Link</td><td>Parameter</td><td>Exploit</td></tr></b>";
 		foreach ($res as $vuln) {
 			echo "<tr>
-					<td><b>".htmlspecialchars($vuln['vuln'])."</b></td>
-					<td><b>".htmlspecialchars($vuln['info'])."</b></td>
-					<td><b>".htmlspecialchars($vuln['parameter'])."</b></td>
-					<td><b>".htmlspecialchars($vuln['exploit'])."</b></td>
+					<td>".htmlspecialchars($vuln['vuln'])."</td>
+					<td>".htmlspecialchars($vuln['info'])."</td>
+					<td>".htmlspecialchars($vuln['parameter'])."</td>
+					<td>".htmlspecialchars($vuln['exploit'])."</td>
 				</tr>";
 		}
 		echo "</table>";

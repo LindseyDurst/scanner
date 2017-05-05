@@ -16,7 +16,8 @@ if(check_auth()==1) {
 		echo "
 		<div style=\"position:relative;top:100px;\" class=\"container\">
 			<h3><b>{$proj_name['proj_name']}</b></h3>
-			<b>\t<a target=\"_blank\" href=\"logs/".$proj_name['proj_name']."_".$proj_name['date'][0].".log\">scaning log</a></b>
+			<b>\t<a target=\"_blank\" href=\"logs/".$proj_name['proj_name']."_".$proj_name['date'][0].".log\">scaning log</a></b><br><br>
+			<a href=\"pdf.php?id=".intval($_GET['id'])."\"><button type=\"button\" class=\"btn btn-default\">Report</button></a>
 			<a class=\"btn btn-sm btn-default pull-right\" href=\"#basicModal1\" data-toggle=\"modal\" data-target=\"#basicModal1\">Delete Project</a>
 		<div class=\"modal fade\" id=\"basicModal1\" tabindex=\"-1\" role=\"dialog\" >
 		     <form class=\"modal-dialog\" method=\"post\">
@@ -77,7 +78,27 @@ if(check_auth()==1) {
 			</tr>	
 			";
 		}
-		echo '</table>';
+		echo '</table></center>';
+		$adds=mysqli_query($mysqli_link,"select * from additional_info where proj_id='".intval($_GET['id'])."';");
+		if(mysqli_num_rows($adds)>0){
+			echo 	"<br><br>
+					<h4>Additional info</h4>
+					<center>
+					<table class=\"table\"   style=\"text-align:center;\" class=\"col-md-offset-3\">
+						<tr>
+							<td><b>Link</b></td><td><b>Short review</b></td>
+						</tr>";
+			while($row=mysqli_fetch_assoc($adds)){
+				echo 
+				"<tr>
+					<td>".htmlspecialchars($row['paste_link'])."</td>
+					<td>".htmlspecialchars($row['review'])."</td>
+				</tr>	
+				";
+			}
+			echo '</table><BR><BR>';
+		}
+
 		echo '</center></div>';
 
 	//}

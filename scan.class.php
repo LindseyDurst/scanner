@@ -43,6 +43,9 @@ class Scan{
 			'logFormat'      => false,
 			'appendContext'  => true]);
 	}
+	public function search_additional_data(){
+		#imitating work
+	}
 	public function check_for_sqli(){
 		$res=$this->get_links($this->target);
 		if($res == 1){
@@ -440,7 +443,7 @@ class Scan{
 			//die();
 			$saving=mysqli_query($this->mysqli_link,"Insert into `page_bank` values(NULL,{$this->proj_id},(Select id from pages where page_name='{$page_name}' and proj_id={$this->proj_id}),'".bin2hex($page['page'])."');");
 			//echo "Insert into `page_bank` values(NULL,{$this->proj_id},(Select id from pages where page_name='{$page_name}'),'".bin2hex($page['page'])."')<BR><BR>";
-			var_dump($saving);
+			// var_dump($saving);
 			if(mysqli_error($this->mysqli_link)) {
 				echo mysqli_error($this->mysqli_link);
 				die();
