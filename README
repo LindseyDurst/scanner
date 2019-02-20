@@ -12,3 +12,16 @@ https://github.com/dompdf/dompdf/wiki/DOMPDF-and-Composer-Quick-start-guide
     }
 открываем консоль винды и делаем composer update
 6) заходим на сайт. логин пароль admin/admin
+
+________________________
+1) install composer
+2) download app and place it on your web server
+3) upload database to phpmyadmin
+4) change database password in config.php
+5) repeat https://github.com/dompdf/dompdf/wiki/DOMPDF-and-Composer-Quick-start-guide 
+add to composer.json :
+    "require": {
+        "katzgrau/klogger": "dev-master"
+    }
+do composer update
+6) login to the website with admin/admin
